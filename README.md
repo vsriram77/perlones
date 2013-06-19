@@ -1,0 +1,4 @@
+perlones
+========
+
+perl one liners
